@@ -1,0 +1,242 @@
+{
+  "West Coast Mainline Midlands and Northwest (aka - 'Missing Link')": {
+    "Missing Link / Main Route": {
+      "password": "JPuUx641dhU3Ea6hmud",
+      "url": "https://files.alanthomsonsim.com/index.php/s/snQFabn8w8WF6D6/download/installML4.zip"
+    },
+    "Missing Link / Scenery (Branded NWC)": {
+      "prompt": "If you have the original 2018 NWC branded please press yes if you own the later unbranded NWC please press no.",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/krQ6c4JR8LjqGG9/download/RouteNWCB.zip"
+    },
+    "Missing Link / Scenery (Unbranded NWC)": {
+      "prompt": "If you have the original 2018 NWC branded please press no if you own the later unbranded NWC please press yes.",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/Yte5KCSogdcQCpr/download/routeNWCUB.zip"
+    },
+    "Missing Link / Scenarios": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/NiWaw3jAfHwC6fP/download/Scenarios4.zip"
+    },
+    "Missing Link / Branding Patch": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/cGF8Z6mojCkotgm/download/BrandingPatch.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+    // ... other properties ...
+  },
+  "The East Coast Mainline - London Kings Cross to Leeds and York Merge": {
+    "Leeds Lines Merge": {
+      "password": "zLmxMuyyLH972PZCBKgGpR8uSVDwz6WcdSnEbKRFHcocRfQ!J9c6LUXU0XIFMSC$AfU0JR!EeNMlRFf1JPuUx641PhU3EQwn",
+      "url": "https://files.alanthomsonsim.com/index.php/s/aYNZJyG795Nyx6D/download/InstalLLMerge.7z"
+    },
+    "Leeds Lines Merge 2": {
+      "password": "zLmxMuyyLH972PZCBKg",
+      "url": "https://files.alanthomsonsim.com/index.php/s/kRYw7j8LEHKJTBR/download/InstalLLMerge.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
+  "GOLD STAR TRAINS® Multi-Purpose Vehicle (MPV) Pack": {
+    "GST MPV Files": {
+      "password": "Dwz6WcdSnEbKRFHcocR",
+      "url": "https://files.alanthomsonsim.com/index.php/s/kX6A898YtMSqyLw/download/installFiles.zip"
+    }
+  },
+  "GOLD STAR TRAINS® Plasser & Theurer 09 Series Ballast Tamper Pack": {
+    "Tamper DR73106 Files": {
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/jD9b6XZgaoYcdEQ/download/installFiles.zip"
+    }
+  },
+  "ATS Chat Moss - Manchester Stations to Liverpool Lime Street via the Chat Moss": {
+    "Chat Moss Assets": {
+      "password": "zLmxMuyyLH972PZCBKgGpR8uSVDwz6WcdSnEbKRFHcocRfQ!J9c6LUXU0XIFMSC$AfU0JR!EeNMlRFf1JPuUx641PhU3EQwn",
+      "url": "https://files.alanthomsonsim.com/index.php/s/meZrgpy2pkmMBDM/download/InstallChatMossets.7z"
+    },
+    "Chat Moss Assets 2": {
+      "password": "zLmxMuyyLH972PZCBKg",
+      "url": "https://files.alanthomsonsim.com/index.php/s/GzJQYG59gynABYD/download/InstallChatMossets.zip"
+    },
+    "Chat Moss Route": {
+      "password": "zLmxMuyyLH972PZCBKg",
+      "url": "https://files.alanthomsonsim.com/index.php/s/5HjSqS68jSFtszY/download/InstallCMRoute.zip"
+    },
+    "Chat Moss Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/PYitcAscF5kSD43/download/ChatMoss-Branding.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
+  "ATS/Fuller Simulations IIA Biomass Wagon Pack": {
+    "ATS/Fuller Simulations IIA Biomass Wagon Pack": {
+      "password": "XJei0mKbLWt0hhKkq2r2",
+      "url": "https://files.alanthomsonsim.com/index.php/s/ZtiRPQ4GrHGSrTT/download/DraxWagons.zip"
+    },
+    "Branding Patch": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/RCywZJGMkSxGTPw/download/Branding.zip"
+    },
+    "AP Sound Patch": {
+      "prompt": "Do you want to install the AP Sound Patch? You must own AP Modern Wagon Sound Pack.",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/EjPw7MTNYAiAEQf/download/SoundPatch.zip"
+    }
+  },
+  "Mk5 Sleeper Coach Pack": {
+    "Mk5 Sleeper Coach Pack": {
+      "password": "KbhzLmxWcdSnEbKRFMX",
+      "url": "https://files.alanthomsonsim.com/index.php/s/jL6Z5N638NfN3rF/download/Mk5Slep.zip"
+    },
+    "Branding Patch": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/H8dbnsCTCFSFfcy/download/Mk5Slep-Branding.zip"
+    }
+  },
+  "Kings Cross to Kings Lynn": {
+    "Kings X - Kings Lynn Route": {
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/kz3gqEWEYBGWyfB/download/KGX-KLL.zip"
+    },
+    "Kings X - Kings Lynn Base Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/38B9MbSXFAnHKxW/download/Base_Branding.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
+  "Alan Thomson Simulation - Cambridge to Peterborough": {
+    "Peterborough - Cambridge Base Route": {
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/wgeMqKi3qNKetR4/download/PBO_CBG.zip"
+    },
+    "Peterborough - Cambridge Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/38B9MbSXFAnHKxW/download/Base_Branding.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
+  "ATSCambridgetoPeterborough_KingsLynntoKingsCross": {
+    "KGX_Merge": {
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/Q9s7w8HAGR6J2HE/download/KGX_Merge.zip"
+    },
+    "Hit - PBO Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": "9HqkFpnKbhzLmxMuyyL",
+      "url": "https://files.alanthomsonsim.com/index.php/s/38B9MbSXFAnHKxW/download/Base_Branding.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
+  "Overhead Live Electrification Pack (OHLE Pack)": {
+    "ATS OHLE Pack": {
+      "password": "Nmdv2ZwWFgfpaNtdUox",
+      "url": "https://files.alanthomsonsim.com/index.php/s/QHH6kX5a8tARHYq/download/installlibo.zip"
+    }
+  },
+  "Alan Thomson Simulation and Imbue Studios - Class 185 Multiple Unit Pack": {
+    "Class 185 Main": {
+      "password": "IDCgfJiWy0W5xC047PJb",
+      "url": "https://files.alanthomsonsim.com/index.php/s/oExyRd22TQzoTFw/download/ATS%20185%20Pack%20Main.zip"
+    },
+    "Class 185 Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/zTY4n5oxiyskGxf/download/ATS%20Class%20185%20Branding%20Patch%20RTM.zip"
+    },
+    "Class 185 Extra Stock": {
+      "prompt": "Do you want to install extra stock?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/k48n8w8fbM5PEcR/download/ATS%20185%20Pack%20Extra%20Stock.zip"
+    }
+  },
+  "Modern HST Cab Pack": {
+    "Modern HST Cab Pack BAT": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/fHKnW3xNSPFHLNN/download/ATS_MCP.zip"
+    },
+    "Modern HST Cab Pack": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/zM28YefL4eky35Z/download/HST-MCP-release.zip"
+    },
+    "IVELL PATCH": {
+      "prompt": "Do you have the James Ivell HST Patch installed?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/bzRPq9DJbc2N7tH/download/ivelpatch.zip"
+    },
+    "MJW PATCH": {
+      "prompt": "Do you have the Major Wales HST Patch installed?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/rJ87EPXgJBAC56w/download/MCP-release-MJW-Compatibility-Patch.zip"
+    }
+  },
+  "ATS/GST HST Enhancement Pack BETA UPDATE": {
+    "Modern HST Cab Pack BAT": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/wwz9WXPekT3gnzq/download/ATS_MCP.zip"
+    },
+    "ATS/GST HST Enhancement Pack BETA UPDATE": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/22ZHk3SWZNc2TMi/download/HST-MCP-beta.zip"
+    },
+    "IVELL PATCH": {
+      "prompt": "Do you have the James Ivell HST Patch installed?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/bzRPq9DJbc2N7tH/download/ivelpatch.zip"
+    },
+    "MJW PATCH": {
+      "prompt": "Do you have the Major Wales HST Patch installed?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/X6FLPLDci8kRgF7/download/MCP-beta-MJW-Compatibility-Patch.zip"
+    }
+  },
+  "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/DproXNq5azQiaCx/download/WTT%20Scenarios%20-%20Scenario%20Pack%201%20North%20Wales%20Coast%201993%20Without%20Signal%20EP%20Original%20ATW%20Route.zip"
+    },
+    "With Signal EP": {
+      "prompt": "Do you have the AP Signal EP installed?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/D7a36knxrXt24Qo/download/WTT%20Scenarios%20-%20Scenario%20Pack%201%20North%20Wales%20Coast%201993%20With%20Signal%20EP.zip"
+    }
+  }
+  // ... other products ...
+}
+
+
+
+
+
+
+
+
+    
