@@ -1,0 +1,125 @@
+{
+  "ATS Chat Moss - Manchester Stations to Liverpool Lime Street via the Chat Moss": [
+    {
+      "folderPath": "Assets/ATS/ChatMoss",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Assets/ATS/ManchesterVictoria",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "West Coast Mainline Midlands and Northwest (aka - 'Missing Link')": [
+    {
+      "folderPath": "Content/Routes/045911ae-114c-4dfc-8382-4505d0491555",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "The East Coast Mainline - London Kings Cross to Leeds and York Merge": [
+    {
+      "folderPath": "Content/Routes/09a729b8c-4d82-4612-842e-e9057fe178de",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "GOLD STAR TRAINS® Multi-Purpose Vehicle (MPV) Pack": [
+    {
+      "folderPath": "Assets/goldstartrains/mpv",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "GOLD STAR TRAINS® Plasser & Theurer 09 Series Ballast Tamper Pack": [
+    {
+      "folderPath": "Assets/goldstartrains/addon",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "Mk5 Sleeper Coach Pack": [
+    {
+      "folderPath": "Assets/MaxTracks/Mark5Pack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "Modern HST Cab Pack": [
+    {
+      "folderPath": "Assets/goldstartrains/vp185",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "ATS/GST HST Enhancement Pack BETA UPDATE": [
+    {
+      "folderPath": "Assets/goldstartrains/vp185",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "ATS/Fuller Simulations IIA Biomass Wagon Pack": [
+    {
+      "folderPath": "Assets/Jake Fuller/IIA_Wagons",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "Kings Cross to Kings Lynn": [
+    {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "Alan Thomson Simulation - Cambridge to Peterborough": [
+    {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "ATSCambridgetoPeterborough_KingsLynntoKingsCross": [
+    {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "ATS Class 185": [
+    {
+      "folderPath": "Assets/ATS/Class185",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ],
+  "Overhead Live Electrification Pack (OHLE Pack)": [
+    {
+      "folderPath": "Assets/SP202D/OHLE",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+    // ... more mappings ...
+  ]
+  // ... other products ...
+}
