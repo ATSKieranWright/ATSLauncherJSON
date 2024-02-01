@@ -220,12 +220,149 @@
   "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": {
     "Without Signal EP": {
       "password": null,
-      "url": "https://files.alanthomsonsim.com/index.php/s/DproXNq5azQiaCx/download/WTT%20Scenarios%20-%20Scenario%20Pack%201%20North%20Wales%20Coast%201993%20Without%20Signal%20EP%20Original%20ATW%20Route.zip"
+      "url": "https://files.alanthomsonsim.com/index.php/s/BBBRgEyXRSs9bot/download/SP01-TFWbranded.zip"
     },
     "With Signal EP": {
       "prompt": "Do you have the AP Signal EP installed?",
       "password": null,
-      "url": "https://files.alanthomsonsim.com/index.php/s/D7a36knxrXt24Qo/download/WTT%20Scenarios%20-%20Scenario%20Pack%201%20North%20Wales%20Coast%201993%20With%20Signal%20EP.zip"
+      "url": "https://files.alanthomsonsim.com/index.php/s/GjM2kDBar6HxjCp/download/SP01-signalep.zip"
+    }
+  },
+  "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 2 North Wales Coast 1997 - 2000": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/7bNQpSaedEM8Pe8/download/SP02-nosignalep.zip"
+    },
+    "With Signal EP": {
+      "prompt": "Do you have the AP Signal EP installed?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/7n35b4XnAMoBt2w/download/SP02-signalep.zip"
+    }
+  },
+  "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 4 - Welsh Marches Line 2003 - 2006": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/j38ADgTSYnWenSQ/download/SP04.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 5 - VOLUME 1 - WEST COAST MAIN LINE OVER SHAP 1992 - 1998": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/ZCcD5GqjozqtMmt/download/SP05%20Volume%201%20v2.0.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS - SCENARIO PACK 11 NORTH WALES COAST 1996": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/dpcjL9FnH9ToDk6/download/SP11.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 12 MIDLAND MAIN LINE EAST MIDLANDS / SOUTH YORKSHIRE 1997 - 2000": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/iD88bXisdSo7M36/download/SP12%20v1.2.zip"
+    }
+  },
+  "Chatham Main &amp; Medway Valley Lines Scenario Pack 01": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/D942pEpq27XM5Xc/download/Enhanced%20Version%20%28recommended%29.zip"
+    }
+  },
+  "Fife Circle Line Route Scenario Pack": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/yqdQxc6Wj2JcMTT/download/AL07-Fife-Circle-Line-Scenario-Pack.zip"
+    }
+  },
+  "Chatham Main and Medway Valley Lines Scenario Pack": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/36NFP2yQArQfNsf/download/AL08-Chatham-Main-and-Medway-Valley-Lines-Scenario-Pack.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS - SCENARIO PACK 8 SOUTH WESTERN MAINLINE: SOUTHAMPTON TO BOURNEMOUTH (XC) 1998 - 2002": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/wcL3DbWXFwCbkTn/download/WTT-SP08-SWML.zip"
+    }
+  },
+  "GEML London to Ipswich Scenario Pack": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/qboAwbW84dpKSmg/download/AL09-GEML-London-to-Ipswich-Scenario-Pack.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 10 CHATHAM MAIN AND MEDWAY VALLEY LINES 2010 - 2011": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/CACoFmcTLHJLpcW/download/WTT-SP10.zip"
+    }
+  },
+  "Working Timetable Scenarios - Scenario Pack 7 - Midland Mainline London St Pancras to Bedford 2014 SP07": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/CZaH2qyi6E8jKLH/download/WTT%20SP07.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS - SCENARIO PACK 9 - MIDLAND MAIN LINE LONDON ST. PANCRAS TO BEDFORD 2002": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/FeHTdW3EootY4RZ/download/SP09%20v1.1.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 5 - VOLUME 2 - WEST COAST MAIN LINE OVER SHAP 1992 - 1998": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/CarfNsdktjmMRtH/download/SP05%20Volume%202%20v2.0.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 14 - PORTSMOUTH DIRECT LINE 2009": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/bWgsoqQEmCtWp2K/download/SP14.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 15 - LIVERPOOL TO MANCHESTER VIA CHAT MOSS 2017": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/RNqrnBJ4HnoJEWW/download/SP15.zip"
+    }
+  },
+  "[CB] South West Scenario Pack 1": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/G2zfMNRCbNRdCrn/download/SWTSP1.zip"
+    }
+  },
+  "BALLAST TAMPER SCENARIO PACK - 7 SCENARIOS FOR THE GOLDSTAR TRAINS DR73106 BALLAST TAMPER": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/YQce2wKoAAFEjqR/download/TamperScenarioPack_v1.15.zip"
+    }
+  },
+  "Chat Moss Scenario Pack 1 (2017-19)": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/ECPynsNKx8W9Qn4/download/Chat%20Moss%20SP1.zip"
+    }
+  },
+  "ATS Class 700 Scenario Pack": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/XwgAtptrAMLbcNK/download/ATS-KGX-KLN-700-v3.0.zip"
+    }
+  },
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 16 - KING'S CROSS / PETERBOROUGH / CAMBRIDGE / KING'S LYNN 2002 - 2004": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/SfNWCNB5dbRXxRr/download/SP16%20v1.1.zip"
+    }
+  },
+  "Chat Moss Scenario Pack 2 (2018-19)": {
+    "Without Signal EP": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/PLayseaKpS9zWTq/download/Chat%20Moss%20SP2.zip"
     }
   }
 }
