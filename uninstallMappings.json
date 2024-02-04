@@ -15,7 +15,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "West Coast Mainline Midlands and Northwest (aka - 'Missing Link')": [
     {
@@ -23,7 +23,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "The East Coast Mainline - London Kings Cross to Leeds and York Merge": [
     {
@@ -31,23 +31,23 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
-  "GOLD STAR TRAINS® Multi-Purpose Vehicle (MPV) Pack": [
+  "GOLD STAR TRAINSÂ® Multi-Purpose Vehicle (MPV) Pack": [
     {
       "folderPath": "Assets/goldstartrains/mpv",
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
-  "GOLD STAR TRAINS® Plasser & Theurer 09 Series Ballast Tamper Pack": [
+  "GOLD STAR TRAINSÂ® Plasser & Theurer 09 Series Ballast Tamper Pack": [
     {
       "folderPath": "Assets/goldstartrains/addon",
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "Mk5 Sleeper Coach Pack": [
     {
@@ -55,7 +55,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "Modern HST Cab Pack": [
     {
@@ -63,7 +63,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "ATS/GST HST Enhancement Pack BETA UPDATE": [
     {
@@ -71,7 +71,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "ATS/Fuller Simulations IIA Biomass Wagon Pack": [
     {
@@ -79,7 +79,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "Kings Cross to Kings Lynn": [
     {
@@ -87,7 +87,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "Alan Thomson Simulation - Cambridge to Peterborough": [
     {
@@ -95,7 +95,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "ATSCambridgetoPeterborough_KingsLynntoKingsCross": [
     {
@@ -103,7 +103,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "ATS Class 185": [
     {
@@ -111,7 +111,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ],
   "Overhead Live Electrification Pack (OHLE Pack)": [
     {
@@ -119,7 +119,7 @@
       "deleteFiles": true,
       "deleteFolder": true
     }
-    // ... more mappings ...
+
   ]
-  // ... other products ...
+
 }
