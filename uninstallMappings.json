@@ -120,6 +120,1086 @@
       "deleteFolder": true
     }
 
+  ],
+  "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": [
+    {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/c17a315c-a9b1-41f5-8872-ff2e49695885",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/c102db46-5a00-4f91-b23d-ba571d09abee",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/e5b94abd-4c2d-4d34-8ea7-25f78b14f0bf",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/e017c37b-8511-49bc-974e-1da126423e6e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/ec0117fd-eee5-4625-8a36-dbcf301466ab",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/81fe4293-9bbe-4f81-b3ac-40cd9087e3c4",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/82a1613f-8e7f-4632-a39e-cdc2e2b45b66",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/63899860-cc18-4d43-aaba-270fe17e8f6e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/bf5d7d8b-3c4d-414e-84a9-c7ef83349f35",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/bf5d7d8b-3c4d-414e-84a9-c7ef83349f35",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+  ],
+  "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 2 North Wales Coast 1997 - 2000": [
+    {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/87bb6613-416a-475c-8289-7b8783dd8d5d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/5681514e-1590-405b-a141-3b42f784a8de",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/a2b7c113-ecd8-4544-bcad-e65739f105d5",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/bb9f5f4f-df6e-4821-9444-1636b03df889",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/d931e1db-7489-4af8-a105-0d91b5d865ca",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/e8f27604-2799-4de0-8d1e-d5c5c984934a",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/f8b7cc1d-e9ad-4ac9-af9d-53983304b6f8",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/0c82512b-1391-4e77-ba36-997af3d5d982",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/2fe9a856-0b4f-4bcd-a1b3-de549aad6341",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/50ac8ef6-8502-42a3-ba13-47e368c05c39",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/214aea63-e8ee-4a46-b5e1-91bb8ca542bd",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+  "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 4 - Welsh Marches Line 2003 - 2006": [
+    {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/8efaf05b-3ff3-4e85-90d5-73555ba39c92",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/86c4971b-b01b-458e-a28d-066b67d1d7c4",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/8980bd3a-bf51-43d7-ba5c-d09052ee1980",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/b1be1481-f9e6-4bbf-aebf-5ba5a8846f55",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/c2e369a6-aa8a-4d46-a6c8-7c45912b53d2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/c3fab123-bc71-45eb-85cf-30cc23a7cf89",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/cba1700f-2b3d-4118-b2ce-03bd861563ef",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/d1d95d04-d00c-49cf-bd3a-ace0d0088f08",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/d7879556-86d3-44bd-a4ce-1bcd46b1eb39",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/4fc3c4ec-1e1a-4515-98cb-fc4b5dcd6270",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/5d0b2ac6-09eb-44c7-9fb2-416fa3e94860",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/7a3788d4-5d47-4f4f-b072-bf40b238c0bf",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/1862c1d0-22b8-4c79-8d51-275677ed6ccf",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/1892c023-c711-4f8b-b23c-13c337819058",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/3666f9c2-a14d-4718-aa3e-848d856b7765",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/57268762-965a-4379-9837-3e39210b4cb6/Scenarios/73400aaa-03d3-46e6-b1de-a12bbd9b9420",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+  "WORKING TIMETABLE SCENARIOS SCENARIO PACK 5 - VOLUME 1 - WEST COAST MAIN LINE OVER SHAP 1992 - 1998": [
+    {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/5990cd2c-a6ec-45db-8e8b-87f0de05df75",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/8822bec7-3cdb-4e26-a24b-255796948804",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/9590d1b5-1cb1-4b16-b4c8-6ea9f92c2140",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/d1509ba2-e6c3-4d82-839c-aa91f88aa51e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/f812e5b3-08c7-43b2-847e-b03a455d05e9",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/04f6c5cb-d7e6-4389-9b0c-f84aa97df8ff",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/a7654b8f-65b5-466c-9a18-0c0ee6bfc971",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/be871940-faf5-48c5-a55c-3733a8f2b9e3",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/c57e83d8-44b5-4e04-ae9d-46f1d6eadd55",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS - SCENARIO PACK 11 NORTH WALES COAST 1996": [
+    {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/3d6f7024-a0b8-4124-9983-bf1929560e81",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/4d773cd9-a296-42be-a275-b5c5208ae671",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/8b8b28cb-158f-48c5-a805-29dd4a7392ec",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/87fd1be6-247b-4b66-9624-81fe6cfda6c2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/755b49e2-0d2f-4881-8b3a-a0ecc8c38f3d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/3761f3f2-0936-4a1c-8557-0732fa8000e1",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/4763f56c-810f-4e84-bb30-6422d7b64743",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/6600e15f-e2ba-4912-aa21-12c09277b9fe",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/d32af1a5-f66e-483c-8d83-451c1e1bddd7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/d1381e04-046b-4ac4-9f73-3bc183e39083",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Sceanrios/e4ab28c7-4c74-453d-afdf-145541d4cfd7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS SCENARIO PACK 12 MIDLAND MAIN LINE EAST MIDLANDS / SOUTH YORKSHIRE 1997 - 2000": [
+    {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/8102c6a2-1ef0-4e0d-9b42-361ddb8d6ca5",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/92a3a241-68bf-4b40-b5d1-987319c03467",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/ab3e6bb9-362f-4030-afcd-b6447dcc3116",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/d5a5a339-92b0-4db9-8976-f3146bdf70e0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/dc04926c-f744-446f-9777-4046cb38d3e1",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/ddc9accd-02ad-450d-98bb-0566c73dabe2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/debfffd4-5457-48c4-8a4a-4485c9b06817",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/e152fac0-bc7f-4b1c-bdab-b6456ea18778",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/eb570ee4-fc5e-4234-a46a-734a8284d8d0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/fac9eaa1-54f6-481d-b001-7144cc039a77",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/4d10ca66-70df-4d26-bd4c-e8d2ec61d7ab",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/34f72b81-2df6-4e23-bfaa-697a18058f2c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/79a5e73e-3d2a-42db-96c1-1c19bcc9f649",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/848fb279-8636-4942-950d-f0e9151b09fc",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/8061d903-b330-4933-b892-9121943804ef",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/9283468e-f62f-40eb-a887-deee070e84a7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/fd2885e5-2744-4fdd-8a49-e60b027ac26d/Scenarios/1f89fc9f-1543-4d6c-8482-67c1db641bde",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "Chatham Main &amp; Medway Valley Lines Scenario Pack 01": [
+    {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/895a4f6b-da35-49ae-b312-dcf4a81c7101",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/6efc5134-81e7-4925-98f7-ebd7d30de368",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/82b4ce29-1d3e-416f-af46-afcd47254844",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/157b3f96-4099-4ce7-a770-d401aab11945",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/a5c2b04e-fbce-44c9-8a51-084ccc58677c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/e0cff5ae-88c4-4ab1-8326-9d3a0ba71196",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "Fife Circle Line Route Scenario Pack": [
+    {
+      "folderPath": "Content/Routes/00000094-0000-0000-0000-000000002019/Scenarios/8e25286d-b27f-4a2b-9cb4-8e9a3bf15c8c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000094-0000-0000-0000-000000002019/Scenarios/65b69030-6772-4e7a-afae-e36a1d8a2598",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000094-0000-0000-0000-000000002019/Scenarios/804dbc52-4b0d-4c14-b3cc-1eac579a4d36",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000094-0000-0000-0000-000000002019/Scenarios/b1ddd43b-a1c2-4546-9bec-f3cd35b28efb",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000094-0000-0000-0000-000000002019/Scenarios/d257dba9-1d0c-469b-87b9-e2ac8347e9fc",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000094-0000-0000-0000-000000002019/Scenarios/d59020cd-0b03-40bf-af01-c486c6c6ae52",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "Chatham Main and Medway Valley Lines Scenario Pack": [
+    {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/2b9e6396-ca91-45f1-869e-d0a59bd784ee",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/6b054f3a-caa6-48a8-818a-3a53e1e832c1",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/7f5b7a7f-c953-4bf5-9087-755a5d29ae0c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/32c9ce20-806f-49a7-9241-5dd1f03c3fe6",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/298b9ef5-b95e-4974-a8e7-aa5b6fd0d860",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/25265b60-4fde-4cec-9fe4-790f547247a0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS - SCENARIO PACK 8 SOUTH WESTERN MAINLINE: SOUTHAMPTON TO BOURNEMOUTH (XC) 1998 - 2002": [
+    {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/0bd03bc0-5013-4f1a-b3a7-e94c09fe26db",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/1ac19ee0-5eed-4dd7-a6bb-695319bc68ef",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/6aa34bfe-8279-45ef-aa55-105b6dd4c9b0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/1398e95c-bb34-4085-aa76-a61d91d883c0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/4403d278-f8f4-4dc1-a5c4-d895a2b80373",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/a4a99007-5a6e-4886-89f3-7349863b5f2e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/a246f7e7-6de4-46f1-8c8b-db625ce2787f",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000090-0000-0000-0000-000000002019/Scenarios/d2d281f4-a389-4ab2-a4e7-faf1c796bd7c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "GEML London to Ipswich Scenario Pack": [
+    {
+      "folderPath": "Content/Routes/00000038-0000-0000-0000-000000002013/Scenarios/43cd8c56-87b8-4c33-91f5-fad37fa0b4cb",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000038-0000-0000-0000-000000002013/Scenarios/1505985e-4694-49f2-9b82-100dc56916b5",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000038-0000-0000-0000-000000002013/Scenarios/3584714c-dffc-4175-9df4-9071fdf562e2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000038-0000-0000-0000-000000002013/Scenarios/4391356c-737e-4a42-ac1e-7004baf61e18",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000038-0000-0000-0000-000000002013/Scenarios/b52aa9d8-c531-43ba-a4e6-d7b48534620c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000038-0000-0000-0000-000000002013/Scenarios/e7b08940-5887-453e-a22e-b45ef4303b7d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS SCENARIO PACK 10 CHATHAM MAIN AND MEDWAY VALLEY LINES 2010 - 2011": [
+    {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/0ddf897d-cd20-42f4-8fe2-62613483744e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/1a963672-95d8-4f6a-9662-3538f9884bfe",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/25f3223b-c1ce-4794-ac46-499cd8218d0e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/402cdbc0-5464-41d3-a3a6-7611b0f61002",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/753d224f-12b2-419b-8073-a7dbf81d7d6d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/534882d8-6c47-43d5-992d-aadface64aaa",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/a3b8fbc9-0be6-4187-ae79-399a7ce404a6",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/a9a220af-9a9b-4161-8136-89f6b05b7b85",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/b997c992-7fb5-4037-b465-8184b29b59a3",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/b8078bbb-b513-4047-a552-50e0f7eb224f",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000066-c000-0000-0000-000000002016/Scenarios/ce40ffb6-1929-4d8f-8a97-0906380fcb81",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "Working Timetable Scenarios - Scenario Pack 7 - Midland Mainline London St Pancras to Bedford 2014 SP07": [
+    {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/8c008a81-88f8-4f92-acd3-09f30b039700",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/8d117ed6-4e12-4608-b8ad-ac02a8f2acea",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/6878e090-44f8-4f73-8de7-5696d6b50373",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/c2284c42-084b-43b0-a5e2-1d570850f781",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/d26cb955-5823-4872-9746-a388860cacc9",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/eaf365d3-d1be-4548-bb5e-d59f8478fc1e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS - SCENARIO PACK 9 - MIDLAND MAIN LINE LONDON ST. PANCRAS TO BEDFORD 2002": [
+    {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/2a4864f1-59c7-4484-891d-6f1c0662c7c6",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/111b9bca-b2e0-4d6a-a44b-60d058d09ab0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/132d257d-cfe5-491d-af5c-ea47c60c7775",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/518f7779-e8cb-4c04-ab4d-5237a0d52fca",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/de952d93-159d-4c1c-906f-c2f3bd96a4fc",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/f3b955a3-a298-46ec-a9b4-969ebde6cc70",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000034-d000-0000-0000-000000002014/Scenarios/f07d5f07-6341-4018-8986-c58edd080a1a",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS SCENARIO PACK 5 - VOLUME 2 - WEST COAST MAIN LINE OVER SHAP 1992 - 1998": [
+    {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/2cba85b4-8824-486c-bb67-c3aa13ccb379",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/3c9dbe43-533e-46d8-8483-3697df6a90d3",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/9dbbe8df-dd63-406e-afd4-81aeb2a3f81d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/55fd2fe2-4f83-43d8-8b0d-5bb7929dfd07",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/73f30e0c-3869-41c5-aa04-be895a3f0e62",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/844d72ee-e650-4c88-b83c-b87c48111275",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/155837aa-2ddc-4ea5-95a3-980b86a1ee36",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/adf53672-f4a1-4b45-9899-b4854bb70bd6",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/c4087976-677e-4c0c-a874-48ebcbd0eaa8",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/e9d05b8a-0e59-4f8e-a2d7-612e6f14b3fb",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/e1773526-66c7-4cc1-a85f-a68b2ac8e260",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/ed3af4aa-ac98-4d72-9301-cb628d386061",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS SCENARIO PACK 14 - PORTSMOUTH DIRECT LINE 2009": [
+    {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/8d776369-3d2b-464c-a7d0-72b6b4f281cd",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/9c68bc66-db03-4fb9-aede-83e23437c0b9",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/935a6c3a-9b07-4acf-942a-fb92056ec34d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/7864c9e8-c218-4940-8661-7da00f3cdbdc",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/06565140-e1b2-43d5-a04a-c985152541d9",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/a04c6525-7d55-4973-b4d2-453919753070",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/a949054a-887f-473e-b456-304caac7a398",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/ab4adc8f-777a-4b0a-bf6c-870cb50eaefc",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/ded54a47-de5e-437f-b152-573ede4ba8e5",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+    "WORKING TIMETABLE SCENARIOS SCENARIO PACK 15 - LIVERPOOL TO MANCHESTER VIA CHAT MOSS 2017": [
+    {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/06ca1c2c-5ac8-48d2-8a2d-baea5a9d4245",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/7ea99e28-1419-482b-92be-6d576536e849",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/81bbcf76-15f1-4111-9d2a-1e2b533f338c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/a51c6703-8123-45ee-80df-c61d187e9130",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/b23a9443-5640-4a34-a88b-ae7e446f2ebf",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/ca285b09-654d-41a1-84e6-2ad050fbdd53",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/e61c7b52-60d5-43ee-ad58-9a439139e4a0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/eec97efc-9778-4560-9c45-ac45defb2d1b",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+      "[CB] South West Scenario Pack 1": [
+    {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/2f930809-d5fc-480a-bc55-2a0d3ef8ceb9",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/8a265f77-2c8a-42aa-84a1-ba437dea0825",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/8edbf054-808d-423b-9628-d1e3decc7280",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/69f43bd4-ebbe-475a-8761-f764986ff9d7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/893b3459-9e3f-4c7e-aaab-19305c552282",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/b25b2fd4-52e8-4c47-b59d-edd192ae8255",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/f5ba29c6-7d72-413c-8677-bfe2e8d5f58a",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000084-0000-0000-0000-000000002018/Scenarios/fb17013e-226a-4841-a7cf-f096ece900f9",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+      "BALLAST TAMPER SCENARIO PACK - 7 SCENARIOS FOR THE GOLDSTAR TRAINS DR73106 BALLAST TAMPER": [
+    {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/e6b1cd47-bd51-4b82-8384-0786dabf3165",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/e0169140-59b0-4310-afba-a956d31fa1aa",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/00000042-0000-0000-0000-000000002014/Scenarios/4e17afd5-8450-4b5c-9385-01ecef875766",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+                    {
+      "folderPath": "Content/Routes/00000042-0000-0000-0000-000000002014/Scenarios/ace6f847-b2d4-4aa7-b566-43437debdabf",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+
+                    {
+      "folderPath": "Content/Routes/00000046-0000-0000-0000-000000002014/Scenarios/0253eb20-d3ae-44ec-ab9e-5dfc9a03d97a",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+                            {
+      "folderPath": "Content/Routes/00000046-0000-0000-0000-000000002014/Scenarios/411f2e3f-896e-47c0-8fb0-0c2e838c62c0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+                            {
+      "folderPath": "Content/Routes/00000046-0000-0000-0000-000000002014/Scenarios/c05f2b3d-ad72-4fd9-a311-6d8b39734782",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+
+  ],
+      "Chat Moss Scenario Pack 1 (2017-19)": [
+    {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/1b4d364f-13e7-4e32-95ab-b7794d11af06",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/7cd152a9-a74e-44c6-a549-d6f5600875a3",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/023c810d-3b87-49d1-92a7-f2e8fac5fb29",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/4157bbc5-6f04-42ab-b86d-793e686f2ff5",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/e824c51b-5290-4c5b-b519-1060fc255439",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/Scenarios/f1e203e3-e052-40f6-a1e5-b57231abaae0",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+      "ATS Class 700 Scenario Pack": [
+    {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/3a8c982b-c6ef-417a-8a06-0b7aef5a6450",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/3bacbf9a-d284-4b43-a980-57d440f44faf",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/32db3bc1-12da-438f-a771-d180e1ad25f3",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/2740f17f-c97e-4fd3-8a97-790b84de55fe",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/3108b883-0d27-4313-8df9-4b1032d8ff20",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/62739dba-ab80-4449-bc39-54fb3ed9f774",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/ac3ae357-495b-40de-ba5b-4fb704b1bf1d",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+      "WORKING TIMETABLE SCENARIOS SCENARIO PACK 16 - KING'S CROSS / PETERBOROUGH / CAMBRIDGE / KING'S LYNN 2002 - 2004": [
+    {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/0cb1b03c-c051-4f56-afad-ccf296dc984f",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/7d62fdf4-b151-4a66-912b-bdef8ab32b65",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/8ba616e4-8efb-41bd-8332-e8764e6db320",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/42d657a4-2e8f-4e1b-88b4-6abec9f3c899",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/736e4eb0-6180-4f9c-855c-83924c809176",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/29030dbf-1918-4b32-af7d-0b66715da6f3",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/a0e7c226-af18-4ce3-a19f-b24a394bf8c2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/a93baf73-bea6-4537-9097-eba05834325a",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/b5dfdffc-064f-4e36-aa3e-9ccbe197abd7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
+      "Chat Moss Scenario Pack 2 (2018-19)": [
+    {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/4b73de54-55e2-4f46-bdb8-45e57d22e30e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/26f8e8e8-ab25-4977-98b4-1821cfcb18c7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/06665cca-a802-4139-905e-ece764bd0422",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/9203adea-ee0f-4775-bb7c-4aa8870a77ef",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/df617835-85a2-4fec-a229-00e05758036e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+            {
+      "folderPath": "Content/Routes/8378d7b6-30ad-4c29-a5ac-16d3c2b26ff7/edfa8c79-129e-408f-8515-bc49a4371ba7",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
   ]
 
 }
