@@ -217,6 +217,38 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/X6FLPLDci8kRgF7/download/MCP-beta-MJW-Compatibility-Patch.zip"
     }
   },
+    "ATS/Imbue Rail Express Systems Postal Pack (BETA ONLY)": {
+    "MainPack": {
+      "password": "uBQaU5hjRUKQ",
+      "url": "https://files.alanthomsonsim.com/index.php/s/e297T8wxcCTMw27/download/MainPack.zip"
+    },
+    "Extra Stock": {
+       "prompt": "Do you want to install the Extra Stock?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/xmzKnZedPcmiCaf/download/Extra%20Stock.zip"
+    },
+    "AP Sound Patch": {
+      "prompt": "Do you own the AP Class 47 Sound Pack? Please note if you do not own it, this is now discontinued from AP and you will need to select no.",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/Af4yDLQdGAYXCQM/download/soundpatch.zip"
+    }
+  },
+      "ATS/Imbue Rail Express Systems Postal Pack": {
+    "MainPack": {
+      "password": "uBQaU5hjRUKQ",
+      "url": "https://files.alanthomsonsim.com/index.php/s/MEm4SpmdwQH4HnL/download/MainPack.zip"
+    },
+    "Extra Stock": {
+       "prompt": "Do you want to install the Extra Stock?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/w7PfBZG47PqoADS/download/Extra%20Stock.zip"
+    },
+    "AP Sound Patch": {
+      "prompt": "Do you own the AP Class 47 Sound Pack? Please note if you do not own it, this is now discontinued from AP and you will need to select no.",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/wPJNJrL6gE8Aekg/download/soundpatch.zip"
+    }
+  },
   "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": {
     "Without Signal EP": {
       "password": null,
