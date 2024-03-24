@@ -17,6 +17,13 @@
     }
 
   ],
+    "ATS Announcements - Azuma Demo Pack": [
+    {
+      "folderPath": "plugins/announce/ATS/Azuma",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+  ],
     "ATS/Imbue Rail Express Systems Postal Pack (BETA ONLY)": [
     {
       "folderPath": "Assets/ATS/RESMailPack",
