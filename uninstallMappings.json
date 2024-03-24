@@ -17,6 +17,102 @@
     }
 
   ],
+    "ATS/Imbue Rail Express Systems Postal Pack (BETA ONLY)": [
+    {
+      "folderPath": "Assets/ATS/RESMailPack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Assets/ATS/RESPack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Assets/ATS/DTG/Class47Pack04/RailVehicles/Diesel/Class47/RESPack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Content/Routes/3ed129c1-62b1-4a18-96de-b1d3a2030a5f/Scenarios/1d7d9e7c-b7ab-4b87-a302-43f2d9616b6c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000068-a000-0000-0000-000000002016/Scenarios/52b4fe4c-916a-4758-aa06-b50fa23fcc96",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+                {
+      "folderPath": "Content/Routes/00000068-a000-0000-0000-000000002016/Scenarios/64d23f93-0f48-43d4-8a24-41d5b5d56a9b",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000069-0000-0000-0000-000000002016/Scenarios/8f55ceee-11ce-48d8-9728-19e3ccea62ed",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/39c23d66-5749-4b46-9bf0-7478d8badee2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/adee0865-e71d-4adc-b878-161b3ca7d571",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+
+  ],
+      "ATS/Imbue Rail Express Systems Postal Pack": [
+    {
+      "folderPath": "Assets/ATS/RESMailPack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Assets/ATS/RESPack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Assets/ATS/DTG/Class47Pack04/RailVehicles/Diesel/Class47/RESPack",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Content/Routes/3ed129c1-62b1-4a18-96de-b1d3a2030a5f/Scenarios/1d7d9e7c-b7ab-4b87-a302-43f2d9616b6c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000068-a000-0000-0000-000000002016/Scenarios/52b4fe4c-916a-4758-aa06-b50fa23fcc96",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+                {
+      "folderPath": "Content/Routes/00000068-a000-0000-0000-000000002016/Scenarios/64d23f93-0f48-43d4-8a24-41d5b5d56a9b",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/00000069-0000-0000-0000-000000002016/Scenarios/8f55ceee-11ce-48d8-9728-19e3ccea62ed",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/39c23d66-5749-4b46-9bf0-7478d8badee2",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          {
+      "folderPath": "Content/Routes/1f8f9c40-10bb-4310-ab5c-3a6a74893eb1/Scenarios/adee0865-e71d-4adc-b878-161b3ca7d571",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+
+  ],
   "West Coast Mainline Midlands and Northwest (aka - 'Missing Link')": [
     {
       "folderPath": "Content/Routes/045911ae-114c-4dfc-8382-4505d0491555",
