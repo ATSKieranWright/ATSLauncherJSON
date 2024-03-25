@@ -48,7 +48,12 @@
     "MainFiles": {
       "password": null,
       "url": "https://files.alanthomsonsim.com/index.php/s/WA9LpH8rQnkjNW6/download/Azuma%20Demo%20Pack%20RTR.zip"
-    }
+    },
+      "Branding": {
+        "prompt": "Do you wish to install the branding patch? (Realistic Announcements)",
+        "password": null,
+        "url": "https://files.alanthomsonsim.com/index.php/s/tQABHSSKfTFB5BP/download/Branding.zip"
+      }
   },
   "GOLD STAR TRAINS® Multi-Purpose Vehicle (MPV) Pack": {
     "GST MPV Files": {
