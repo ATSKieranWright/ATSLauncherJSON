@@ -72,18 +72,20 @@
     }
 
   ],
+          "ATS Class 745 FLIRT - Beta Build": [
+    {
+      "folderPath": "Assets/ATS/FLIRTPack01",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+          ],
       "ATS/Imbue Rail Express Systems Postal Pack": [
     {
       "folderPath": "Assets/ATS/RESMailPack",
       "deleteFiles": true,
       "deleteFolder": true
     },
-              "ATS Class 745 FLIRT - Beta Build": [
-    {
-      "folderPath": "Assets/ATS/FLIRTPack01",
-      "deleteFiles": true,
-      "deleteFolder": true
-    },
+      
     {
       "folderPath": "Assets/ATS/RESPack",
       "deleteFiles": true,
