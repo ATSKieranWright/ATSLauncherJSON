@@ -31,6 +31,18 @@
       "deleteFolder": true
     }
   ],
+     "ATS GEMMA - Beta Build": [
+    {
+      "folderPath": "Assets/ATS/Gemma",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+      {
+      "folderPath": "Content/Routes/281837e5-9bed-4c2e-890a-4002cfd20253",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+  ],
     "ATS/Imbue Rail Express Systems Postal Pack (BETA ONLY)": [
     {
       "folderPath": "Assets/ATS/RESMailPack",
