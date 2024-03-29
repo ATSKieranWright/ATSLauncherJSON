@@ -36,6 +36,10 @@
     }
   },
   "ATS GEMMA - BETA Build": {
+    "Common Library - GEMMA Beta": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/nfas3nMNDjzsH3T/download/ATSCommon.zip"
+    },
     "GEMMA Beta": {
       "password": "8RagVNJuvnQFfsAwZVVV",
       "url": "https://files.alanthomsonsim.com/index.php/s/cs9P62id8TKCcFP/download/GEMMA-Beta.zip"
