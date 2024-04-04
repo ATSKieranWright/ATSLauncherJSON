@@ -279,6 +279,11 @@
       "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/ce3d6aa9-0d84-4223-8f94-b4b1c2279dc5",
       "deleteFiles": true,
       "deleteFolder": true
+    },
+           {
+      "folderPath": "Manuals/AHaighScenarios/AHaighScenarios 04",
+      "deleteFiles": true,
+      "deleteFolder": true
     }
   ],
   "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": [
