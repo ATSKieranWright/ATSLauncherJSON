@@ -244,6 +244,43 @@
     }
 
   ],
+  "West Coast Mainline Over Shap Scenario Pack 1 (1994-2004) (Passenger)": [
+    {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/6e21761e-6518-4534-a599-969f4fc1cb8e",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/12d20a2e-1bb5-4141-ae34-859edbcece48",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/33c242c8-72bb-4d6b-add2-518a383de76c",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/9826bddc-86d1-4400-ab17-64944c75b2ee",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/a873af26-cea4-4736-85b0-942cde04101a",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/b03e49a6-d735-469d-a51b-307551188df8",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+        {
+      "folderPath": "Content/Routes/ce4052d1-669a-4529-b16b-1972fc32913a/Scenarios/ce3d6aa9-0d84-4223-8f94-b4b1c2279dc5",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+  ],
   "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": [
     {
       "folderPath": "Content/Routes/00000086-a000-0000-0000-000000002022/Scenarios/c17a315c-a9b1-41f5-8872-ff2e49695885",
