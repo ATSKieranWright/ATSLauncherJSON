@@ -45,6 +45,17 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/cs9P62id8TKCcFP/download/GEMMA-Beta.zip"
     }
   },
+    "ATS The Great Eastern Mainline GEMMA - Phase One": {
+    "GEMMA MAIN": {
+      "password": "eAxwxDfr2EbAMHLsBNFQ",
+      "url": "https://files.alanthomsonsim.com/index.php/s/aYNZJyG795Nyx6D/download/InstalLLMerge.7z"
+    },
+    "GEMMA Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
   "The East Coast Mainline - London Kings Cross to Leeds and York Merge": {
     "Leeds Lines Merge": {
       "password": "YcRw0wUo7KByhM8EZ6Ht",
