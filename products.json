@@ -54,6 +54,11 @@
       "prompt": "Do you want to install the branding patch?",
       "password": null,
       "url": "https://files.alanthomsonsim.com/index.php/s/7qy6Tigf6nZqTJB/download/GEMMA-Branding.zip"
+    },
+       "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
     }
   },
   "The East Coast Mainline - London Kings Cross to Leeds and York Merge": {
