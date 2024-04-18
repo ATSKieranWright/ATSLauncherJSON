@@ -33,7 +33,12 @@
     "ATS Class745 Beta": {
       "password": "4yU5QhY5BAWXkmzRFpvE",
       "url": "https://files.alanthomsonsim.com/index.php/s/aHDMaBenzT8L49D/download/ATS_Class745_Beta.zip"
-    }
+    },
+      "ATS Class745 Beta Branding Patch": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/c6MFiXebFeZpcnw/download/ATS_Class745_BrandingPack.zip"
+    }  
   },
   "ATS GEMMA - BETA Build": {
     "Common Library - GEMMA Beta": {
