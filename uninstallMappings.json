@@ -24,9 +24,21 @@
       "deleteFolder": true
     }
   ],
-   "ATS Class 745 FLIRT - Beta Build": [
+     "ATS Class 745 FLIRT - Beta Build": [
     {
       "folderPath": "Assets/ATS/FLIRTPack01",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+  ],
+   "Alan Thomson Simulation Class 745 FLIRT": [
+    {
+      "folderPath": "Assets/ATS/FLIRTPack01",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+     {
+      "folderPath": "Manuals/ATS/Class 745 FLIRT",
       "deleteFiles": true,
       "deleteFolder": true
     }
