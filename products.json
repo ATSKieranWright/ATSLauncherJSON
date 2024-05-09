@@ -29,7 +29,18 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
     }
   },
-  "ATS Class 745 FLIRT - Beta Build": {
+  "Thameslink Class 700 Announcement Plugin": {
+    "Class700 Announcements": {
+      "password": "UwYZzLR82bfp5EqUJyzR",
+      "url": "https://files.alanthomsonsim.com/index.php/s/fNit5sHbbym8jSE/download/Class700Announcements.zip"
+    },
+      "Class700 Announcements Branding Patch": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/SQR9sf9f2ar6nQE/download/Class700AnnouncementsBranding.zip"
+    }  
+  },
+    "ATS Class 745 FLIRT - Beta Build": {
     "ATS Class745 Beta": {
       "password": "4yU5QhY5BAWXkmzRFpvE",
       "url": "https://files.alanthomsonsim.com/index.php/s/aHDMaBenzT8L49D/download/ATS_Class745_Beta.zip"
