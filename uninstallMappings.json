@@ -24,6 +24,18 @@
       "deleteFolder": true
     }
   ],
+       "Thameslink Class 700 Announcement Plugin": [
+    {
+      "folderPath": "Manuals/JD",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "plugins/Audio/DesiroCityWAV",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+  ],
      "ATS Class 745 FLIRT - Beta Build": [
     {
       "folderPath": "Assets/ATS/FLIRTPack01",
