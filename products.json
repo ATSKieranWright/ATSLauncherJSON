@@ -62,6 +62,16 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/SJEFMMmCyfE5kD6/download/ATS_Class745_BrandingPack.zip"
     }  
   },
+    "ATS Northampton Loop – BETA Build": {
+    "Northampton Loop Beta": {
+      "password": "QnaBTQMzncbjZqKeavpn",
+      "url": "https://files.alanthomsonsim.com/index.php/s/nfas3nMNDjzsH3T/download/ATSCommon.zip"
+    },
+    "Common Library - NL Beta": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/nfas3nMNDjzsH3T/download/ATSCommon.zip"
+    }
+  },
   "ATS GEMMA - BETA Build": {
     "Common Library - GEMMA Beta": {
       "password": null,
