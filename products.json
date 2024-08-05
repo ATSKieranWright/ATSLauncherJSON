@@ -51,6 +51,21 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/c6MFiXebFeZpcnw/download/ATS_Class745_BrandingPack.zip"
     }  
   },
+    "ATS East Anglia Network – BETA Build": {
+      "ATS EA Route": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/NmGf78L8q9PRjZX/download/KGX-KLN%20Update%20Beta%20V1.zip"
+    },
+    "ATS EA CL": {
+      "password": "nnjgQC34nLhHnPdjXs9Y",
+      "url": "https://files.alanthomsonsim.com/index.php/s/nfas3nMNDjzsH3T/download/ATSCommon.zip"
+    },
+      "ATS Signal EP": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }  
+  },
     "Alan Thomson Simulation Class 745 FLIRT": {
     "ATS Class745": {
       "password": "nrMxfkm8EKA2UXxG4Bkf",
