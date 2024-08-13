@@ -18,6 +18,10 @@
       "password": null,
       "url": "https://files.alanthomsonsim.com/index.php/s/NiWaw3jAfHwC6fP/download/Scenarios4.zip"
     },
+        "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
+    },
     "Missing Link / Branding Patch": {
       "prompt": "Do you want to install the branding patch?",
       "password": null,
@@ -107,6 +111,10 @@
       "password": null,
       "url": "https://files.alanthomsonsim.com/index.php/s/7qy6Tigf6nZqTJB/download/GEMMA-Branding.zip"
     },
+              "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
+    },
        "ATS Route Signals": {
       "prompt": "Do you own the AP Signal EP?",
       "password": null,
@@ -121,6 +129,10 @@
     "Leeds Lines Merge 2": {
       "password": "k0bFTnkLZUhbhdjWQ33k",
       "url": "https://files.alanthomsonsim.com/index.php/s/kRYw7j8LEHKJTBR/download/InstalLLMerge.zip"
+    },
+            "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
     },
     "ATS Route Signals": {
       "prompt": "Do you own the AP Signal EP?",
@@ -169,6 +181,10 @@
       "password": null,
       "url": "https://files.alanthomsonsim.com/index.php/s/PYitcAscF5kSD43/download/ChatMoss-Branding.zip"
     },
+            "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
+    },
     "ATS Route Signals": {
       "prompt": "Do you own the AP Signal EP?",
       "password": null,
@@ -212,6 +228,10 @@
       "password": "9HqkFpnKbhzLmxMuyyL",
       "url": "https://files.alanthomsonsim.com/index.php/s/38B9MbSXFAnHKxW/download/Base_Branding.zip"
     },
+            "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
+    },
     "ATS Route Signals": {
       "prompt": "Do you own the AP Signal EP?",
       "password": null,
@@ -228,6 +248,10 @@
       "password": "9HqkFpnKbhzLmxMuyyL",
       "url": "https://files.alanthomsonsim.com/index.php/s/38B9MbSXFAnHKxW/download/Base_Branding.zip"
     },
+            "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
+    },
     "ATS Route Signals": {
       "prompt": "Do you own the AP Signal EP?",
       "password": null,
@@ -243,6 +267,10 @@
       "prompt": "Do you want to install the branding patch?",
       "password": "9HqkFpnKbhzLmxMuyyL",
       "url": "https://files.alanthomsonsim.com/index.php/s/38B9MbSXFAnHKxW/download/Base_Branding.zip"
+    },
+            "ATS Common Lib": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
     },
     "ATS Route Signals": {
       "prompt": "Do you own the AP Signal EP?",
