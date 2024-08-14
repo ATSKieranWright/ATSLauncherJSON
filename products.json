@@ -33,6 +33,21 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
     }
   },
+  "Alan Thomson Simulation - Northampton Loop for West Coast Mainline South": {
+    "NL Public": {
+      "password": "W5MgLPrQYyQ9pukHb5LY",
+      "url": "https://files.alanthomsonsim.com/index.php/s/oiQeSKbYnw9Hdw7/download/NorthamptonLoop.zip"
+    },
+            "ATS Common Lib": {
+      "password": "nnjgQC34nLhHnPdjXs9Y",
+      "url": "https://files.alanthomsonsim.com/index.php/s/5tYZ2JMsrxJeefN/download/ATSCommon.zip"
+    },
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
   "Thameslink Class 700 Announcement Plugin": {
     "Class700 Announcements": {
       "password": "UwYZzLR82bfp5EqUJyzR",
