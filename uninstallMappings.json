@@ -17,6 +17,14 @@
     }
 
   ],
+    "ATS TPE Merge - BETA Build": [
+    {
+      "folderPath": "Content/Routes/18142626-d875-4f2a-b9cf-a13142091867",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
     "ATS Announcements - Azuma Demo Pack": [
     {
       "folderPath": "plugins/announce/ATS/Azuma",
