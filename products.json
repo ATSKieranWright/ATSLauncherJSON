@@ -309,10 +309,26 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/QHH6kX5a8tARHYq/download/installlibo.zip"
     }
   },
+    "ATS Class 185 - BETA Build": {
+    "Class 185 Main": {
+      "password": "IDCgfJiWy0W5xC047PJb",
+      "url": "https://files.alanthomsonsim.com/index.php/s/Da7mCaJq3A8rzyx/download/ATS%20185%20Pack%20MainBETA.zip"
+    },
+    "Class 185 Branding": {
+      "prompt": "Do you want to install the branding patch?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/55AgDnfQLpFqAwb/download/ATS%20Class%20185%20Branding%20Beta.zip"
+    },
+    "Class 185 Extra Stock": {
+      "prompt": "Do you want to install extra stock?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/DeasrMwXJqNBbEQ/download/ATS%20185%20Pack%20Extra%20Stock.zip"
+    }
+  },
   "Alan Thomson Simulation and Imbue Studios - Class 185 Multiple Unit Pack": {
     "Class 185 Main": {
       "password": "IDCgfJiWy0W5xC047PJb",
-      "url": "https://files.alanthomsonsim.com/index.php/s/oExyRd22TQzoTFw/download/ATS%20185%20Pack%20Main.zip"
+      "url": "https://files.alanthomsonsim.com/index.php/s/3SN7PF6L7oBscDN/download/ATS%20185%20Pack%20MainNEW.zip"
     },
     "Class 185 Branding": {
       "prompt": "Do you want to install the branding patch?",
