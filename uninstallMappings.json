@@ -17,6 +17,19 @@
     }
 
   ],
+    "Alan Thomson Simulation - Northampton Loop for West Coast Mainline South": [
+    {
+      "folderPath": "Assets/ATS/NorthamptonLoop",
+      "deleteFiles": true,
+      "deleteFolder": true
+    },
+    {
+      "folderPath": "Content/Routes/00000087-0000-0000-0000-000000002020",
+      "deleteFiles": true,
+      "deleteFolder": true
+    }
+
+  ],
     "ATS TPE Merge - BETA Build": [
     {
       "folderPath": "Content/Routes/18142626-d875-4f2a-b9cf-a13142091867",
