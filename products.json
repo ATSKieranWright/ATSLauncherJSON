@@ -408,17 +408,21 @@
       "ATS/Imbue Rail Express Systems Postal Pack": {
     "MainPack": {
       "password": "uBQaU5hjRUKQ",
-      "url": "https://files.alanthomsonsim.com/index.php/s/MEm4SpmdwQH4HnL/download/MainPack.zip"
+      "url": "https://files.alanthomsonsim.com/index.php/s/QfeJPiojWXbAddr/download/MainPack.zip"
     },
     "Extra Stock": {
        "prompt": "Do you want to install the Extra Stock?",
       "password": null,
-      "url": "https://files.alanthomsonsim.com/index.php/s/w7PfBZG47PqoADS/download/Extra%20Stock.zip"
+      "url": "https://files.alanthomsonsim.com/index.php/s/wWNFeZJd5NCDn6q/download/Extra%20Stock.zip"
+    },
+              "Extra Scenarios": {
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/mmHBWERsbxJJYPk/download/AdditionalRESscenarios.zip"
     },
     "AP Sound Patch": {
       "prompt": "Do you own the AP Class 47 Sound Pack? Please note if you do not own it, this is now discontinued from AP and you will need to select no.",
       "password": null,
-      "url": "https://files.alanthomsonsim.com/index.php/s/wPJNJrL6gE8Aekg/download/soundpatch.zip"
+      "url": "https://files.alanthomsonsim.com/index.php/s/CDKbCkFMLznQdqW/download/soundpatch.zip"
     }
   },
   "WTT Scenarios - Working Timetable Scenarios - Scenario Pack 1 North Wales Coast 1993": {
