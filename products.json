@@ -45,6 +45,18 @@
       "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
     }
   },
+    "ATS TPE Merge -  Liverpool Lime Street to Leeds": {
+    "TPE Merge Public": {
+      "password": "V25SgKkpNDYeMmntLAhq",
+      "url": "https://files.alanthomsonsim.com/index.php/s/EYZdKzd8aaAWSH6/download/ATSTPEMerge.zip"
+    },
+
+    "ATS Route Signals": {
+      "prompt": "Do you own the AP Signal EP?",
+      "password": null,
+      "url": "https://files.alanthomsonsim.com/index.php/s/MXEG2JcicZajHPP/download/ATS_Routes_APSEP_Patch_v1-2.zip"
+    }
+  },
     "ATS TPE Merge - BETA Build": {
     "TPE Merge Beta": {
       "password": "V25SgKkpNDYeMmntLAhq",
